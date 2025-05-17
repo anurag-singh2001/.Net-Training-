@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\common\\commoncredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:common\\commoncredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\studentmgmtsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:studentmgmtsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\interface\\iexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:interface\\iexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|d:\\backup\\.net centralogic\\training\\studentmgmtsys\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C059B-1690-4473-B0AA-A0FE002A5188}|StudentMgmtSys.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T13:02:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T12:14:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentMgmtSys.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\StudentMgmtSys.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSys.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\StudentMgmtSys.cs",
+              "RelativeToolTip": "StudentMgmtSys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:58:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommonCredentials.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Common\\CommonCredentials.cs",
+              "RelativeDocumentMoniker": "Common\\CommonCredentials.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Common\\CommonCredentials.cs",
+              "RelativeToolTip": "Common\\CommonCredentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:54:35.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Common\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Common\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Common\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Common\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:04:07.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IExcelService.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Interface\\IExcelService.cs",
+              "RelativeDocumentMoniker": "Interface\\IExcelService.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Interface\\IExcelService.cs",
+              "RelativeToolTip": "Interface\\IExcelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:46:29.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExcelService.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Services\\ExcelService.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelService.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Services\\ExcelService.cs",
+              "RelativeToolTip": "Services\\ExcelService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:19:20.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:09:43.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "Entity\\Student.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Entity\\Student.cs",
+              "RelativeToolTip": "Entity\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:09:41.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:07:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:19:36.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:24:50.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CosmosDBService.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\CosmosDB\\CosmosDBService.cs",
+              "RelativeDocumentMoniker": "CosmosDB\\CosmosDBService.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\CosmosDB\\CosmosDBService.cs",
+              "RelativeToolTip": "CosmosDB\\CosmosDBService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:00:26.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Services\\DepartmentService.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:58:38.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICosmosDBService.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeDocumentMoniker": "CosmosDB\\ICosmosDBService.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeToolTip": "CosmosDB\\ICosmosDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:00:12.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Interface\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Interface\\IDepartmentService.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Interface\\IDepartmentService.cs",
+              "RelativeToolTip": "Interface\\IDepartmentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:59:12.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:38:45.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "Models\\DepartmentModel.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "Models\\DepartmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:23:18.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Entity\\Department.cs",
+              "ToolTip": "D:\\backup\\.Net Centralogic\\Training\\StudentMgmtSys\\Entity\\Department.cs",
+              "RelativeToolTip": "Entity\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:18:14.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\cosmodb\\cosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:cosmodb\\cosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\entity\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:entity\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\cosmodb\\icosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:cosmodb\\icosmodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\entity\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:entity\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\service\\collegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:service\\collegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\common\\commoncredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:common\\commoncredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\models\\collegemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:models\\collegemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\interface\\icollegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:interface\\icollegeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|d:\\backup\\iacsd\\.net\\websites\\collegemgmtsystem\\common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2BD0E-E836-4996-AA33-08BCEAFBFCBB}|CollegeMgmtSystem.csproj|solutionrelative:common\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Service\\EmailService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\EmailService.cs",
+              "RelativeToolTip": "Service\\EmailService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:33:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAowM8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:39:12.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Interface\\IStudentService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "Interface\\IStudentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:36:51.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\Interface.cs",
+              "RelativeDocumentMoniker": "Interface\\Interface.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\Interface.cs",
+              "RelativeToolTip": "Interface\\Interface.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:35:36.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Service\\DepartmentService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\DepartmentService.cs",
+              "RelativeToolTip": "Service\\DepartmentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:58:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Interface\\IDepartmentService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\IDepartmentService.cs",
+              "RelativeToolTip": "Interface\\IDepartmentService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:56:13.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CollegeService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\CollegeService.cs",
+              "RelativeDocumentMoniker": "Service\\CollegeService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Service\\CollegeService.cs",
+              "RelativeToolTip": "Service\\CollegeService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:15:41.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICollegeService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\ICollegeService.cs",
+              "RelativeDocumentMoniker": "Interface\\ICollegeService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Interface\\ICollegeService.cs",
+              "RelativeToolTip": "Interface\\ICollegeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:14:35.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\common\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "common\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\common\\AutoMapperProfile.cs",
+              "RelativeToolTip": "common\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:09:45.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CosmoDBService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\CosmoDB\\CosmoDBService.cs",
+              "RelativeDocumentMoniker": "CosmoDB\\CosmoDBService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\CosmoDB\\CosmoDBService.cs",
+              "RelativeToolTip": "CosmoDB\\CosmoDBService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAEwFUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:07:48.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICosmoDBService.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\CosmoDB\\ICosmoDBService.cs",
+              "RelativeDocumentMoniker": "CosmoDB\\ICosmoDBService.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\CosmoDB\\ICosmoDBService.cs",
+              "RelativeToolTip": "CosmoDB\\ICosmoDBService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA6wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:07:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommonCredentials.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\common\\CommonCredentials.cs",
+              "RelativeDocumentMoniker": "common\\CommonCredentials.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\common\\CommonCredentials.cs",
+              "RelativeToolTip": "common\\CommonCredentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:01:04.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T17:57:47.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:13:55.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "Models\\DepartmentModel.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "Models\\DepartmentModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:13:21.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CollegeModel.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Models\\CollegeModel.cs",
+              "RelativeDocumentMoniker": "Models\\CollegeModel.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Models\\CollegeModel.cs",
+              "RelativeToolTip": "Models\\CollegeModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:12:59.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\Students.cs",
+              "RelativeDocumentMoniker": "Entity\\Students.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\Students.cs",
+              "RelativeToolTip": "Entity\\Students.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:11:10.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Entity\\Department.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\Department.cs",
+              "RelativeToolTip": "Entity\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:10:45.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "College.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\College.cs",
+              "RelativeDocumentMoniker": "Entity\\College.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\College.cs",
+              "RelativeToolTip": "Entity\\College.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:10:23.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:09:57.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:08:41.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:08:07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CollegeController.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Controllers\\CollegeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CollegeController.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Controllers\\CollegeController.cs",
+              "RelativeToolTip": "Controllers\\CollegeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAWwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:07:21.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\backup\\IACSD\\.net\\Websites\\CollegeMgmtSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:12:02.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
